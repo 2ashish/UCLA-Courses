@@ -1,0 +1,234 @@
+==============================
+ckpts\basicvsr_reds4_20120409-0e599677.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 101.12 G
+Params: 7.73 M
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_unstruct_5.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 96.29 G
+Params: 7.41 M
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_unstruct_10.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 86.4 G
+Params: 7.02 M
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_unstruct_15.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 77.04 G
+Params: 6.67 M
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_unstruct_20.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 68.22 G
+Params: 6.28 M
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_unstruct_25.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 59.94 G
+Params: 5.8 M
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_unstruct_30.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 52.31 G
+Params: 5.48 M
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_unstruct_35.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 45.09 G
+Params: 5.09 M
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_unstruct_40.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 38.4 G
+Params: 4.74 M
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_unstruct_45.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 32.25 G
+Params: 4.35 M
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_unstruct_50.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 26.64 G
+Params: 3.87 M
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_unstruct_55.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 21.64 G
+Params: 3.54 M
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_unstruct_60.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 17.09 G
+Params: 3.15 M
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_unstruct_65.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 13.08 G
+Params: 2.81 M
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_unstruct_70.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 9.6 G
+Params: 2.42 M
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_unstruct_75.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 6.66 G
+Params: 1.94 M
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_unstruct_80.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 4.29 G
+Params: 1.61 M
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_unstruct_85.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 2.41 G
+Params: 1.22 M
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_unstruct_90.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 1.07 G
+Params: 876.97 K
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_unstruct_95.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 268.3 M
+Params: 488.48 K
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_struct_5.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 96.51 G
+Params: 7.41 M
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_struct_10.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 87.4 G
+Params: 7.02 M
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_struct_15.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 78.7 G
+Params: 6.67 M
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_struct_20.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 70.21 G
+Params: 6.28 M
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_struct_25.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 59.99 G
+Params: 5.8 M
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_struct_30.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 52.91 G
+Params: 5.48 M
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_struct_35.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 45.89 G
+Params: 5.09 M
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_struct_40.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 39.66 G
+Params: 4.74 M
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_struct_45.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 33.69 G
+Params: 4.35 M
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_struct_50.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 26.68 G
+Params: 3.87 M
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_struct_55.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 22.04 G
+Params: 3.54 M
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_struct_60.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 17.65 G
+Params: 3.15 M
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_struct_65.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 13.85 G
+Params: 2.81 M
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_struct_70.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 10.38 G
+Params: 2.42 M
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_struct_75.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 6.67 G
+Params: 1.94 M
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_struct_80.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 4.47 G
+Params: 1.61 M
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_struct_85.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 2.63 G
+Params: 1.22 M
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_struct_90.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 1.3 G
+Params: 876.97 K
+==============================
+==============================
+prune_ckpts\basicvsr_reds4_struct_95.pth
+Input shape: (1, 1, 3, 128, 128)
+Flops: 418.76 M
+Params: 488.48 K
+==============================

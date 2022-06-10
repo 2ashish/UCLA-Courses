@@ -1,0 +1,12 @@
+qrsh -l gpu,V100,h_rt=0:10:00,h_data=2G,h_vmem=8G -pe shared 4 
+qrsh -l gpu,V100,h_rt=1:00:00,h_data=2G,h_vmem=4G -pe shared 2 
+
+qrsh -l gpu,P4,h_rt=1:00:00,h_data=2G
+
+tools/dist_test.sh configs/restorers/basicvsr/basicvsr_reds4.py $SCRATCH/data/ckpt/basicvsr_reds4_20120409-0e599677.pth 1
+tools/dist_test.sh configs/restorers/basicvsr/basicvsr_vimeo90k_bi.py $SCRATCH/data/ckpt/basicvsr_vimeo90k_bi_20210409-d2d8f760.pth 1
+
+tools/dist_train.sh configs/restorers/basicvsr/basicvsr_reds4.py 1
+tools/dist_train.sh configs/restorers/basicvsr/basicvsr_reds4.py 1 --resume-from=$SCRATCH/data/ckpt/basicvsr_reds4_20120409-0e599677.pth
+
+

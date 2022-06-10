@@ -1,0 +1,66 @@
+load checkpoint from local path: /u/scratch/a/ashish23/data/ckpt/basicvsr_reds4_20120409-0e599677.pth
+The model and loaded state dict do not match exactly
+
+missing keys in source state_dict: step_counter
+
+[                                                  ] 0/4, elapsed: 0s, ETA:[>>>>>>>>                          ] 1/4, 0.0 task/s, elapsed: 98s, ETA:   295s[>>>>>>>>>>>>>>>>                 ] 2/4, 0.0 task/s, elapsed: 188s, ETA:   188s[>>>>>>>>>>>>>>>>>>>>>>>>         ] 3/4, 0.0 task/s, elapsed: 277s, ETA:    92s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>] 4/4, 0.0 task/s, elapsed: 366s, ETA:     0s
+Eval-PSNR: 31.41698792933962
+Eval-SSIM: 0.8908952105561774
+load checkpoint from local path: /u/scratch/a/ashish23/data/prune_ckpts/basicvsr_reds4_unstruct_5.pth
+[                                                  ] 0/4, elapsed: 0s, ETA:[>>>>>>>>                          ] 1/4, 0.0 task/s, elapsed: 98s, ETA:   295s[>>>>>>>>>>>>>>>>                 ] 2/4, 0.0 task/s, elapsed: 190s, ETA:   190s[>>>>>>>>>>>>>>>>>>>>>>>>         ] 3/4, 0.0 task/s, elapsed: 280s, ETA:    93s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>] 4/4, 0.0 task/s, elapsed: 370s, ETA:     0s
+Eval-PSNR: 31.410233922929763
+Eval-SSIM: 0.8907825312500214
+load checkpoint from local path: /u/scratch/a/ashish23/data/prune_ckpts/basicvsr_reds4_unstruct_10.pth
+[                                                  ] 0/4, elapsed: 0s, ETA:[>>>>>>>>                          ] 1/4, 0.0 task/s, elapsed: 99s, ETA:   296s[>>>>>>>>>>>>>>>>                 ] 2/4, 0.0 task/s, elapsed: 188s, ETA:   188s[>>>>>>>>>>>>>>>>>>>>>>>>         ] 3/4, 0.0 task/s, elapsed: 277s, ETA:    92s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>] 4/4, 0.0 task/s, elapsed: 366s, ETA:     0s
+Eval-PSNR: 31.38654228390423
+Eval-SSIM: 0.8904038092148852
+load checkpoint from local path: /u/scratch/a/ashish23/data/prune_ckpts/basicvsr_reds4_unstruct_15.pth
+[                                                  ] 0/4, elapsed: 0s, ETA:[>>>>>>>>                          ] 1/4, 0.0 task/s, elapsed: 98s, ETA:   294s[>>>>>>>>>>>>>>>>                 ] 2/4, 0.0 task/s, elapsed: 189s, ETA:   189s[>>>>>>>>>>>>>>>>>>>>>>>>         ] 3/4, 0.0 task/s, elapsed: 279s, ETA:    93s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>] 4/4, 0.0 task/s, elapsed: 369s, ETA:     0s
+Eval-PSNR: 31.34108621906147
+Eval-SSIM: 0.889817736246383
+load checkpoint from local path: /u/scratch/a/ashish23/data/prune_ckpts/basicvsr_reds4_unstruct_20.pth
+[                                                  ] 0/4, elapsed: 0s, ETA:[>>>>>>>>                          ] 1/4, 0.0 task/s, elapsed: 99s, ETA:   298s[>>>>>>>>>>>>>>>>                 ] 2/4, 0.0 task/s, elapsed: 189s, ETA:   189s[>>>>>>>>>>>>>>>>>>>>>>>>         ] 3/4, 0.0 task/s, elapsed: 278s, ETA:    93s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>] 4/4, 0.0 task/s, elapsed: 367s, ETA:     0s
+Eval-PSNR: 31.208128874374125
+Eval-SSIM: 0.8872918962037388
+load checkpoint from local path: /u/scratch/a/ashish23/data/prune_ckpts/basicvsr_reds4_unstruct_25.pth
+[                                                  ] 0/4, elapsed: 0s, ETA:[>>>>>>>>                          ] 1/4, 0.0 task/s, elapsed: 99s, ETA:   296s[>>>>>>>>>>>>>>>>                 ] 2/4, 0.0 task/s, elapsed: 189s, ETA:   189s[>>>>>>>>>>>>>>>>>>>>>>>>         ] 3/4, 0.0 task/s, elapsed: 282s, ETA:    94s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>] 4/4, 0.0 task/s, elapsed: 377s, ETA:     0s
+Eval-PSNR: 30.940192125670954
+Eval-SSIM: 0.881805495486164
+load checkpoint from local path: /u/scratch/a/ashish23/data/prune_ckpts/basicvsr_reds4_unstruct_30.pth
+[                                                  ] 0/4, elapsed: 0s, ETA:[>>>>>>>>                          ] 1/4, 0.0 task/s, elapsed: 99s, ETA:   297s[>>>>>>>>>>>>>>>>                 ] 2/4, 0.0 task/s, elapsed: 189s, ETA:   189s[>>>>>>>>>>>>>>>>>>>>>>>>         ] 3/4, 0.0 task/s, elapsed: 278s, ETA:    93s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>] 4/4, 0.0 task/s, elapsed: 367s, ETA:     0s
+Eval-PSNR: 30.527274788655493
+Eval-SSIM: 0.8727851157459091
+load checkpoint from local path: /u/scratch/a/ashish23/data/prune_ckpts/basicvsr_reds4_unstruct_35.pth
+[                                                  ] 0/4, elapsed: 0s, ETA:[>>>>>>>>                          ] 1/4, 0.0 task/s, elapsed: 99s, ETA:   296s[>>>>>>>>>>>>>>>>                 ] 2/4, 0.0 task/s, elapsed: 189s, ETA:   189s[>>>>>>>>>>>>>>>>>>>>>>>>         ] 3/4, 0.0 task/s, elapsed: 278s, ETA:    93s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>] 4/4, 0.0 task/s, elapsed: 367s, ETA:     0s
+Eval-PSNR: 28.258180556630712
+Eval-SSIM: 0.8413070174966316
+load checkpoint from local path: /u/scratch/a/ashish23/data/prune_ckpts/basicvsr_reds4_unstruct_40.pth
+[                                                  ] 0/4, elapsed: 0s, ETA:[>>>>>>>>                          ] 1/4, 0.0 task/s, elapsed: 99s, ETA:   296s[>>>>>>>>>>>>>>>>                 ] 2/4, 0.0 task/s, elapsed: 188s, ETA:   188s[>>>>>>>>>>>>>>>>>>>>>>>>         ] 3/4, 0.0 task/s, elapsed: 277s, ETA:    92s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>] 4/4, 0.0 task/s, elapsed: 366s, ETA:     0s
+Eval-PSNR: 28.162756251804556
+Eval-SSIM: 0.8395270529181378
+load checkpoint from local path: /u/scratch/a/ashish23/data/prune_ckpts/basicvsr_reds4_unstruct_45.pth
+[                                                  ] 0/4, elapsed: 0s, ETA:[>>>>>>>>                          ] 1/4, 0.0 task/s, elapsed: 98s, ETA:   295s[>>>>>>>>>>>>>>>>                 ] 2/4, 0.0 task/s, elapsed: 188s, ETA:   188s[>>>>>>>>>>>>>>>>>>>>>>>>         ] 3/4, 0.0 task/s, elapsed: 277s, ETA:    92s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>] 4/4, 0.0 task/s, elapsed: 366s, ETA:     0s
+Eval-PSNR: 27.62520145587191
+Eval-SSIM: 0.826538681587767
+load checkpoint from local path: /u/scratch/a/ashish23/data/prune_ckpts/basicvsr_reds4_unstruct_50.pth
+[                                                  ] 0/4, elapsed: 0s, ETA:[>>>>>>>>                          ] 1/4, 0.0 task/s, elapsed: 98s, ETA:   295s[>>>>>>>>>>>>>>>>                 ] 2/4, 0.0 task/s, elapsed: 188s, ETA:   188s[>>>>>>>>>>>>>>>>>>>>>>>>         ] 3/4, 0.0 task/s, elapsed: 276s, ETA:    92s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>] 4/4, 0.0 task/s, elapsed: 365s, ETA:     0s
+Eval-PSNR: 16.638985847669325
+Eval-SSIM: 0.511511569962233
+load checkpoint from local path: /u/scratch/a/ashish23/data/prune_ckpts/basicvsr_reds4_unstruct_55.pth
+[                                                  ] 0/4, elapsed: 0s, ETA:[>>>>>>>>                          ] 1/4, 0.0 task/s, elapsed: 99s, ETA:   296s[>>>>>>>>>>>>>>>>                 ] 2/4, 0.0 task/s, elapsed: 188s, ETA:   188s[>>>>>>>>>>>>>>>>>>>>>>>>         ] 3/4, 0.0 task/s, elapsed: 276s, ETA:    92s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>] 4/4, 0.0 task/s, elapsed: 365s, ETA:     0s
+Eval-PSNR: 12.207980943586719
+Eval-SSIM: 0.5071432802658328
+load checkpoint from local path: /u/scratch/a/ashish23/data/prune_ckpts/basicvsr_reds4_unstruct_60.pth
+[                                                  ] 0/4, elapsed: 0s, ETA:[>>>>>>>>                          ] 1/4, 0.0 task/s, elapsed: 99s, ETA:   296s[>>>>>>>>>>>>>>>>                 ] 2/4, 0.0 task/s, elapsed: 188s, ETA:   188s[>>>>>>>>>>>>>>>>>>>>>>>>         ] 3/4, 0.0 task/s, elapsed: 276s, ETA:    92s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>] 4/4, 0.0 task/s, elapsed: 365s, ETA:     0s
+Eval-PSNR: 22.351518193325177
+Eval-SSIM: 0.7022098986109965
+load checkpoint from local path: /u/scratch/a/ashish23/data/prune_ckpts/basicvsr_reds4_unstruct_65.pth
+[                                                  ] 0/4, elapsed: 0s, ETA:[>>>>>>>>                          ] 1/4, 0.0 task/s, elapsed: 98s, ETA:   294s[>>>>>>>>>>>>>>>>                 ] 2/4, 0.0 task/s, elapsed: 187s, ETA:   187s[>>>>>>>>>>>>>>>>>>>>>>>>         ] 3/4, 0.0 task/s, elapsed: 275s, ETA:    92s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>] 4/4, 0.0 task/s, elapsed: 364s, ETA:     0s
+Eval-PSNR: 5.300792612546553
+Eval-SSIM: 0.047169405252864095
+load checkpoint from local path: /u/scratch/a/ashish23/data/prune_ckpts/basicvsr_reds4_unstruct_70.pth
+[                                                  ] 0/4, elapsed: 0s, ETA:[>>>>>>>>                          ] 1/4, 0.0 task/s, elapsed: 98s, ETA:   294s[>>>>>>>>>>>>>>>>                 ] 2/4, 0.0 task/s, elapsed: 187s, ETA:   187s[>>>>>>>>>>>>>>>>>>>>>>>>         ] 3/4, 0.0 task/s, elapsed: 274s, ETA:    91s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>] 4/4, 0.0 task/s, elapsed: 362s, ETA:     0s
+Eval-PSNR: 5.78996893971142
+Eval-SSIM: 0.017616068868918228
+load checkpoint from local path: /u/scratch/a/ashish23/data/prune_ckpts/basicvsr_reds4_unstruct_75.pth
+[                                                  ] 0/4, elapsed: 0s, ETA:[>>>>>>>>                          ] 1/4, 0.0 task/s, elapsed: 98s, ETA:   294s
